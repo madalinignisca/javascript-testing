@@ -4,7 +4,7 @@
   "description": "A project used to learn JavaScript using testing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Madalin Ignisca <619561+madalinignisca@users.noreply.github.com>",
   "license": "ISC",

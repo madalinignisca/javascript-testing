@@ -1,0 +1,11 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "A project used to learn JavaScript using testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madalin Ignisca <619561+madalinignisca@users.noreply.github.com>",
+  "license": "ISC"
+}

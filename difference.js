@@ -1,5 +1,5 @@
-function difference(a, b) {
-    return a - b;
+function difference (a, b) {
+  return a - b
 }
 
-module.exports = difference;
+module.exports = difference

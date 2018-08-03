@@ -1,3 +1,9 @@
 module.exports = {
-    "extends": "standard"
+    "plugins": [
+        "jest"
+    ],
+    "extends": [
+        "standard",
+        "plugin:jest/recommended"
+    ]
 };
